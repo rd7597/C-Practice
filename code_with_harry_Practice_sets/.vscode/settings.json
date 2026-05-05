@@ -1,4 +1,7 @@
 {
     "notebook.defaultFormatter": "ms-vscode.cpptools",
-    "editor.defaultFormatter": "ms-vscode.cpptools"
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "cSpell.words": [
+        "Kernighan"
+    ]
 }
