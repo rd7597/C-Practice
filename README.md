@@ -1,16 +1,19 @@
-# C Practice
+# Embedded C Learning 
 
-This repository contains my C programming learning journey.
+This repository documents my journey of learning C programming for Embedded Systems and Firmware Development.
 
-Topics covered:
 
-- Variables
+## Repository Structure
+
+The repository contains programs and exercises covering:
+
+- Basics
 - Functions
-- Pointers
 - Arrays
 - Strings
-- Dynamic Memory
+- Pointers
+- Dynamic Memory Allocation
+- Structures
 - Linked Lists
 
-Current Status:
-Learning Linked Lists
+The code is being gradually reorganized into topic-based folders.
