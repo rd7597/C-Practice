@@ -1,0 +1,15 @@
+# Compiled executables
+*.exe
+a.out
+
+# VS Code temp files
+tempCodeRunnerFile.c
+
+# Object files
+*.o
+
+# Backup files
+*~
+
+# Linux core dumps
+core
